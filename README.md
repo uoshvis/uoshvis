@@ -3,9 +3,9 @@
 
 I'm a free time self-taught programmer.
 
-:rocket: My previous road had taken me to the world of Python (backend & data-science).
+:rocket: My previous road had taken me to the world of **Python** (backend & data-science).
 
-:rocket: My current road leads me to the world of FrontEnd with JavaScript/React.
+:rocket: My current road leads me to the world of FrontEnd with **JavaScript/React**.
 
 <!-- ToDo add Python, Django, JavaScript, React logos
  -->
