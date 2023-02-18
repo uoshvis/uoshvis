@@ -3,7 +3,14 @@
 
 I'm a free time self-taught programmer.
 
-:rocket: My previous road had taken me to the world of **Python** (backend & data-science).
+:rocket: My previous road had taken me to the world of **Python**:
+
+|              | Topic       | Tools                 |
+|--------------|-------------|-----------------------|
+|:panda_face:  |Data Science |Pandas, Numpy          |
+|:computer:    |Web Dev      |Django, Django REST    |
+|:spider:      |Web Scraping |Beautiful Soup, Scrapy |
+
 
 :rocket: My current road leads me to the world of FrontEnd with **JavaScript/React**.
 
