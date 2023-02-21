@@ -5,7 +5,7 @@ I'm a free time self-taught programmer.
 :rocket: My previous road had taken me to the world of **Python**
 
 | ![Python](images/python-icon-48x48.png) | Topic        | Tools                  |
-| --------------------------------------- | ------------ | ---------------------- |
+| :--------------------------------------:| ------------ | ---------------------- |
 | :panda_face:                            | Data Science | Pandas, Numpy          |
 | :computer:                              | Web Dev      | Django, Django REST    |
 | :spider:                                | Web Scraping | Beautiful Soup, Scrapy |
