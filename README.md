@@ -12,6 +12,12 @@ I'm a free time self-taught programmer.
 
 :rocket: My current road leads me to the world of FrontEnd with **JavaScript/React**.
 
+| ![JavaScript](images/js-icon-48x48.png) | Topic        | Tools                               |
+| :--------------------------------------:| ------------ | ------------------------------------|
+| :globe_with_meridians:                  | General      | HTML, CSS, JavaScript               |
+| :computer:                              | React.js     | Redux, React Router, React Hook Form|
+| :white_check_mark:                      | UI           | Material UI                         |
+
 <!-- ToDo add Python, Django, JavaScript, React logos
  -->
 
