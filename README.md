@@ -10,13 +10,20 @@ I'm a free time self-taught programmer.
 | :computer:                              | Web Dev      | Django, Django REST    |
 | :spider:                                | Web Scraping | Beautiful Soup, Scrapy |
 
-:rocket: My current road leads me to the world of FrontEnd with **JavaScript/React**.
+:rocket: As well as FrontEnd with **JavaScript/React**.
 
 | ![JavaScript](images/js-icon-48x48.png) | Topic        | Tools                               |
 | :--------------------------------------:| ------------ | ------------------------------------|
 | :globe_with_meridians:                  | General      | HTML, CSS, JavaScript               |
 | :computer:                              | React.js     | Redux, React Router, React Hook Form|
 | :white_check_mark:                      | UI           | Material UI                         |
+
+:rocket: My current road leads me to the world of Backend web dev with **Ruby/Rails**.
+
+| ![Ruby](images/ruby-icon-48x48.png)       | Topic        | Tools                               |
+| :----------------------------------------:| ------------ | ------------------------------------|
+| :computer:                                | Web Dev      | Ruby on Rails                       |
+
 
 <!-- ToDo add Python, Django, JavaScript, React logos
  -->
