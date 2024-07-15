@@ -10,7 +10,7 @@ I'm a free time self-taught programmer.
 | :computer:                              | Web Dev      | Django, Django REST    |
 | :spider:                                | Web Scraping | Beautiful Soup, Scrapy |
 
-:rocket: As well as FrontEnd with **JavaScript/React**.
+:rocket: As well as Frontend with **JavaScript/React**.
 
 | ![JavaScript](images/js-icon-48x48.png) | Topic        | Tools                               |
 | :--------------------------------------:| ------------ | ------------------------------------|
